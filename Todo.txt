@@ -1,0 +1,5 @@
+List of To-do's
+- Accommodate for different screen sizes
+
+Possible features/enhancements for countdown
+- Controllable toggle to input target date instead of New Year countdown
